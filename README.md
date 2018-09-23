@@ -29,4 +29,5 @@ Binaural beats have been the subject of much speculation during the past few yea
 * Includes Python script used to create violin plots
 
 ### 4-functional_connectivity
+* Please note this code was written by Dr Guillaume Dumas
 * Includes MATLAB files used to do connectivity analysis (iCOH and PLV), statistical analysis, and figures
