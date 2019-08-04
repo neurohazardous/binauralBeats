@@ -1,3 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Project: Binaural Beats
+%% Script purpose: Processing for cortical steady state response
+%% Author: Hector D Orozco Perez
+%% Contact: hector.dom.orozco@gmail.com
+%% License: GNU GPL v3
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 function BBPre3()
 
 data_path = '/Users/g0rd0/Desktop/Brams/0ngoing_Binaural_Beats/Data/PreprocessingICA/'; %Establishes where the Inputted Data is

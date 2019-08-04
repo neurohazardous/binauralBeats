@@ -1,3 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Project: Binaural Beats
+%% Script purpose: Connectivity analysis of EEG
+%% Author: Guillaume Dumas, PhD
+%% Contact: guillaume.dumas@pasteur.fr
+%% License: GNU GPL v3
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 % Neurophenomenology analyses
 clear;clc;close all
 

@@ -1,3 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Project: Binaural Beats
+%% Script purpose: Connectivity analysis of EEG
+%% Author: Guillaume Dumas, PhD
+%% Contact: guillaume.dumas@pasteur.fr
+%% License: GNU GPL v3
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 clear;clc;close all
 
 freqsBeat=[1,5, 9,13,32,6,39;

@@ -1,3 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Project: Binaural Beats
+%% Script purpose: Processing for cortical steady state response
+%% Author: Hector D Orozco Perez
+%% Contact: hector.dom.orozco@gmail.com
+%% License: GNU GPL v3
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 %% Initialize EEGLAB and path
 addpath(genpath('/Users/hectorOrozco/Desktop/binauralBeats/analysis/3-steadystate_cortical/_dependencies/eeglab13_4_4b'));
 addpath(genpath('/Users/hectorOrozco/Desktop/binauralBeats/analysis/3-steadystate_cortical'));

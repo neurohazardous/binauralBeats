@@ -1,3 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Project: Binaural Beats
+%% Script purpose: Connectivity analysis of EEG
+%% Author: Guillaume Dumas, PhD
+%% Contact: guillaume.dumas@pasteur.fr
+%% License: GNU GPL v3
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 %addpath('Teqcspec')
 %addpath(genpath('fieldtrip-read-only'))
 %addpath(genpath('erplab_4.0.3.1'))

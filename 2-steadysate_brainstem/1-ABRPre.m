@@ -1,3 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Project: Binaural Beats
+%% Script purpose: Analysis of brainstem responses
+%% Author: Hector D Orozco Perez
+%% Contact: hector.dom.orozco@gmail.com
+%% License: GNU GPL v3
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 function ABRPre()
 data_path = '/Users/hectorOrozco/Desktop/Brams/0ngoing_Binaural_Beats/Data/Raw/';           %Establishes where the Raw Data is
 

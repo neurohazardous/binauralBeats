@@ -1,3 +1,12 @@
+
+##################################################
+## Project: Binaural Beats
+## Script purpose: Plotting of steady state cortical responses
+## Author: Hector D Orozco Perez
+## Contact: hector.dom.orozco@gmail.com
+## License: GNU GPL v3
+##################################################
+
 import glob
 import xlrd
 
