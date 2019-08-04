@@ -1,3 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Project: Binaural Beats
+%% Script purpose: Statistical testing of the visual analogue scales 
+%% Author: Hector D Orozco Perez
+%% Contact: hector.dom.orozco@gmail.com
+%% License: GNU GPL v3
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 function PrepareData_and_Beeswarms()
 
 %% Manually import data
