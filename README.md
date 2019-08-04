@@ -2,7 +2,7 @@
 This file is part of the project binauralBeat. All of binauralBeat code is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. binauralBeat is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with megFingerprinting. If not, see https://www.gnu.org/licenses/.
 
 ## Status
-On going - Currently finishing up the first draft of the paper 
+Paper about to be submitted for peer review. Preprint can be found [here](https://www.biorxiv.org/content/10.1101/623231v1)
 
 ## Objective
 Binaural beats have been the subject of much speculation during the past few years. Several companies and apps claim they regulate cognitive states and behavior. This project aims to characterize neural responses to binaural beats (as well as control conditions) throughout the auditory pathway (from brainstem responses to connectivity patterns) to determine if (1) binaural beats can entrain the brain and (2) if this entrainment modulates participants' mental state
