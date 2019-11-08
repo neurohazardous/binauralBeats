@@ -7,7 +7,10 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear;clc;close all
-
+function extractCI(results)
+    tmp = sort(results.S_nop_sort);
+    display(['CI=[', num2str(tmp(0.025*length(tmp))),', ',num2str(tmp(0.975*length(tmp))),']'])
+    return
 freqsBeat=[1,5, 9,13,32,6,39;
            4,8,12,30,48,8,41];
 
@@ -205,3 +208,5 @@ for stim = 1:2
         end
     end
 end
+
+extractCI(results)
