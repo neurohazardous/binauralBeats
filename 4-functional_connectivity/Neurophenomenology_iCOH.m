@@ -9,6 +9,11 @@
 % Neurophenomenology analyses
 clear;clc;close all
 
+function extractCI(results)
+    tmp = sort(results.S_nop_sort);
+    display(['CI=[', num2str(tmp(0.025*length(tmp))),', ',num2str(tmp(0.975*length(tmp))),']'])
+    return
+
 %% Extract scores for all subjects
 % MR : Mental Relaxation 
 % AD : Absorption Depth
@@ -330,3 +335,5 @@ for freqA = 1:7
         end
     end
 end
+
+extractCI(results)
