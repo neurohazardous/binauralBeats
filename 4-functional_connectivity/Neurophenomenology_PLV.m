@@ -6,6 +6,11 @@
 %% License: GNU GPL v3
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+function extractCI(results)
+    tmp = sort(results.S_nop_sort);
+    display(['CI=[', num2str(tmp(0.025*length(tmp))),', ',num2str(tmp(0.975*length(tmp))),']'])
+    return
+    
 % Neurophenomenology analyses
 clear;clc;close all
 
@@ -329,3 +334,5 @@ for freqA = 1:7
         end
     end
 end
+
+extractCI(results)
