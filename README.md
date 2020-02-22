@@ -7,6 +7,9 @@ Published paper can be found (and freely accessed) [here](https://doi.org/10.152
 ## Objective
 Binaural beats have been the subject of much speculation during the past few years. Several companies and apps claim they regulate cognitive states and behavior. This project aims to characterize neural responses to binaural beats (as well as control conditions) throughout the auditory pathway (from brainstem responses to connectivity patterns) to determine if (1) binaural beats can entrain the brain and (2) if this entrainment modulates participants' mental state
 
+## Visual Abstract
+![visual abstract](https://github.com/neurohazardous/binauralBeats/blob/master/visual_abstract.png)
+
 ## Supervisors
 [Dr Alexandre Lehmann](https://www.mcgill.ca/ent/about-us/people/faculty/dr-alexandre-lehmann) and [Dr Guillaume Dumas](https://www.extrospection.eu/)
 
