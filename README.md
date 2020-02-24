@@ -13,6 +13,9 @@ Binaural beats have been the subject of much speculation during the past few yea
 ## Supervisors
 [Dr Alexandre Lehmann](https://www.mcgill.ca/ent/about-us/people/faculty/dr-alexandre-lehmann) and [Dr Guillaume Dumas](https://www.extrospection.eu/)
 
+## Data availability
+Currently, our raw data is not publicly available 
+
 ## Dependencies
 * R v3.6.1
 * MATLAB 2014
